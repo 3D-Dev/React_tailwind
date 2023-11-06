@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Create React and Tailwind CSS App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<p align="center" >
+    <img src="./img/1.jpg" width="500">
+    <img src="./img/2.jpg" width="500">
+</p>
 
 ## Available Scripts
 
